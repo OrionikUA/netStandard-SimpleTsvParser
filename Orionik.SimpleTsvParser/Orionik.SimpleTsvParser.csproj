@@ -4,4 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="TsvHeader.cs" />
+    <Compile Remove="TsvList.cs" />
+    <Compile Remove="TsvParseException.cs" />
+    <Compile Remove="TsvParser.cs" />
+    <Compile Remove="TsvRow.cs" />
+  </ItemGroup>
+
 </Project>
