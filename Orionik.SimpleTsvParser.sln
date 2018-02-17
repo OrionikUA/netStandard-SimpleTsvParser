@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orionik.SimpleTsvParser", "Orionik.SimpleTsvParser\Orionik.SimpleTsvParser.csproj", "{BF6F9651-7209-444C-820D-2A03DB0C5EDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orionik.SimpleTsvParser", "Orionik.SimpleTsvParser\Orionik.SimpleTsvParser.csproj", "{BF6F9651-7209-444C-820D-2A03DB0C5EDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orionik.SimpleTsvParser.Tests", "Orionik.SimpleTsvParser.Tests\Orionik.SimpleTsvParser.Tests.csproj", "{7B121EB7-BD9B-45C3-9BE9-1047D637DC5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orionik.SimpleTsvParser.Tests", "Orionik.SimpleTsvParser.Tests\Orionik.SimpleTsvParser.Tests.csproj", "{193CD1BD-AC33-4B74-80F2-6CAC0A26A898}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{BF6F9651-7209-444C-820D-2A03DB0C5EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF6F9651-7209-444C-820D-2A03DB0C5EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF6F9651-7209-444C-820D-2A03DB0C5EDB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B121EB7-BD9B-45C3-9BE9-1047D637DC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B121EB7-BD9B-45C3-9BE9-1047D637DC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B121EB7-BD9B-45C3-9BE9-1047D637DC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B121EB7-BD9B-45C3-9BE9-1047D637DC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193CD1BD-AC33-4B74-80F2-6CAC0A26A898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193CD1BD-AC33-4B74-80F2-6CAC0A26A898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193CD1BD-AC33-4B74-80F2-6CAC0A26A898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193CD1BD-AC33-4B74-80F2-6CAC0A26A898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
