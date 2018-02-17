@@ -16,4 +16,10 @@
     <ProjectReference Include="..\Orionik.SimpleTsvParser\Orionik.SimpleTsvParser.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Assets\data.tsv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
